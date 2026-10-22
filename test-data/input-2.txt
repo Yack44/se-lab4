@@ -1,0 +1,5 @@
+#SINGLE: the store are switched after every shot
+GT4500,10,0,10,1
+TORPEDO,SINGLE #primary
+TORPEDO,SINGLE #secodary
+TORPEDO,SINGLE #primary

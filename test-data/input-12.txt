@@ -1,0 +1,4 @@
+#SINGLE: primary fired last, secondory empty, and primary is getting empty too
+GT4500,1,0,0,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE

@@ -1,0 +1,3 @@
+#ALL: considered successful if at least one launch is successful, even if one is faulty
+GT4500,10,0,10,1
+TORPEDO,ALL

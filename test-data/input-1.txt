@@ -1,0 +1,3 @@
+#SINGLE: the primary store has shot
+GT4500,10,0,10,1
+TORPEDO,SINGLE #primary neve fail, secondory all time
