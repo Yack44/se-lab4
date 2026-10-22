@@ -1,0 +1,3 @@
+#SINGLE:if the primary is empty, and it uses the secondary
+GT4500,0,0,10,0
+TORPEDO,SINGLE

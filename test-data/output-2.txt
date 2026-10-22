@@ -1,0 +1,4 @@
+SUCCESS #<-GT4500
+SUCCESS #<-TORPEDO (primary)
+FAIL #<-TORPEDO (secondary)
+SUCCESS #<-TORPEDO (primary)
